@@ -1,0 +1,21 @@
+nav{
+  gap:34px;
+  background-color: black;
+  display: flex;
+}
+
+*{
+  margin: opx;
+  padding: 0px;
+}
+
+nav a{
+  color: white;
+  text-decoration: none;
+  padding: 24px;
+  list-style-type: none;
+}
+
+.red{
+  background-color: red;
+}

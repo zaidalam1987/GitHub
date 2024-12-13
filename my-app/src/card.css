@@ -1,0 +1,8 @@
+.Card{
+    width: 15vw;
+    border: 2px solid black;
+    margin: 30px;
+    text-align: center;
+    margin: 6px;
+    border-radius: 11%;
+}
